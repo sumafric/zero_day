@@ -1,3 +1,3 @@
 Vagrant
 ---
-Zero day
+Zero-day
